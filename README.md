@@ -1,4 +1,4 @@
-#FIZZBUZZ in Dart
+**FIZZBUZZ in Dart**
 
 The program uses a for loop to iterate through numbers from 1 to 100 (inclusive).
  Inside the loop:
